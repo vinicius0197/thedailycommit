@@ -8,7 +8,7 @@ markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
 title: dbyll
-baseurl: "/thedailycommit"
+baseurl: "/"
 
 defaults:
   -
